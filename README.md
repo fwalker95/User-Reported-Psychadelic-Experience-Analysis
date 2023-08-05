@@ -3,6 +3,10 @@
 
 Project WIP goes in here
 
+Overview:
+
+ETL (extract, transform, loaf) end-to-end data project 
+
 
 Part 1. Getting the Data.
 
