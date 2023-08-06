@@ -7,6 +7,10 @@ Overview:
 
 ETL (extract, transform, loaf) end-to-end data project 
 
+Considerations:
+
+NoSQL vs RDBMS.
+I have structured and unstructured data to store. Which database is better for this?
 
 Part 1. Getting the Data.
 
