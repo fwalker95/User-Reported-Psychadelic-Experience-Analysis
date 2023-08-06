@@ -7,11 +7,6 @@ Overview:
 
 ETL (extract, transform, loaf) end-to-end data project 
 
-Considerations:
-
-NoSQL vs RDBMS.
-I have structured and unstructured data to store. Which database is better for this?
-
 Part 1. Getting the Data.
 
 Web scraping erowid.com using BeautifulSoup
@@ -21,4 +16,7 @@ I tripped the units off of the measurements but soon realizes reports use differ
 
 Part 2. Storing the Data
 
-Convert to CSV -> into Google Sheets
+- Convert to CSV -> into Google Sheets?
+
+- NoSQL vs RDBMS.
+I have structured and unstructured data to store. Which database is better for this?
